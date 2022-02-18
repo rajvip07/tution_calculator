@@ -1,15 +1,4 @@
-# CSE 231 Project 3
-# Print the title of the calculator.
-# Then initiate a 'while' loop and put all the inside of it.
-# Input all the information needed to calculate the tuition.
-# Create a while loop that will only let the user input an integer for the\
-    # credits.
-# Then initialize the variables for taxes, per credit cost and flat rate. 
-# Then use if elif statements to calculate the cost depending on the credits \
-    # level and college.
-# Then print those calculations and end the big while loop 
-
-print("2021 MSU Undergraduate Tuition Calculator.\n")
+print("2021 Undergraduate Tuition Calculator.\n")
 
 
 while True:
